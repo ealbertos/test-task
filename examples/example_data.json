@@ -1,0 +1,77 @@
+{
+  "buildings": [
+    {
+      "type": "single_story",
+      "name": "347 Address St"
+    },
+    {
+      "type": "two_story",
+      "name": "582 Address St"
+    },
+    {
+      "type": "commercial",
+      "name": "901 Address St"
+    },
+    {
+      "type": "single_story",
+      "name": "164 Address St"
+    },
+    {
+      "type": "two_story",
+      "name": "738 Address St"
+    }
+  ],
+  "employees": [
+    {
+      "type": "certified",
+      "name": "Eduardo",
+      "availability": [true, true, true, true, true]
+    },
+    {
+      "type": "certified",
+      "name": "Sarah",
+      "availability": [true, true, false, true, true]
+    },
+    {
+      "type": "certified",
+      "name": "Mike",
+      "availability": [false, true, true, true, false]
+    },
+    {
+      "type": "pending",
+      "name": "Lisa",
+      "availability": [true, false, true, true, true]
+    },
+    {
+      "type": "pending",
+      "name": "David",
+      "availability": [true, true, true, false, true]
+    },
+    {
+      "type": "pending",
+      "name": "Emma",
+      "availability": [true, true, true, true, false]
+    },
+    {
+      "type": "laborer",
+      "name": "Tom",
+      "availability": [false, true, true, true, true]
+    },
+    {
+      "type": "laborer",
+      "name": "Anna",
+      "availability": [true, true, false, true, true]
+    },
+    {
+      "type": "laborer",
+      "name": "Chris",
+      "availability": [true, false, true, true, true]
+    },
+    {
+      "type": "laborer",
+      "name": "Jessica",
+      "availability": [true, true, true, true, true]
+    }
+  ]
+}
+
